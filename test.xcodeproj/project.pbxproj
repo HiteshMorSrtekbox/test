@@ -12,6 +12,7 @@
 		D6C8E74421B10888005E08CF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6C8E74221B10888005E08CF /* Main.storyboard */; };
 		D6C8E74621B10889005E08CF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D6C8E74521B10889005E08CF /* Assets.xcassets */; };
 		D6C8E74921B10889005E08CF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D6C8E74721B10889005E08CF /* LaunchScreen.storyboard */; };
+		D6C8E75121B108D8005E08CF /* B2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D6C8E75021B108D8005E08CF /* B2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D6C8E74521B10889005E08CF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D6C8E74821B10889005E08CF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D6C8E74A21B10889005E08CF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6C8E75021B108D8005E08CF /* B2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = B2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D6C8E73E21B10888005E08CF /* AppDelegate.swift */,
 				D6C8E74021B10888005E08CF /* ViewController.swift */,
+				D6C8E75021B108D8005E08CF /* B2ViewController.swift */,
 				D6C8E74221B10888005E08CF /* Main.storyboard */,
 				D6C8E74521B10889005E08CF /* Assets.xcassets */,
 				D6C8E74721B10889005E08CF /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				D6C8E74121B10888005E08CF /* ViewController.swift in Sources */,
 				D6C8E73F21B10888005E08CF /* AppDelegate.swift in Sources */,
+				D6C8E75121B108D8005E08CF /* B2ViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
